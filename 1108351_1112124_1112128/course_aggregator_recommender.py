@@ -36,7 +36,7 @@ from tkinter import filedialog, messagebox, ttk
 
 # Εξατομίκευση: Βάλε τα πραγματικά ονόματα και Αριθμούς Μητρώου (ΑΜ)
 # πριν την τελική υποβολή της εργασίας.
-TEAM_INFO = "Δημήτρης Πετράτος (AM 1108351), Χρήστος Αυγερινόπουλος (AM 1112128), Ιωάννης Γιανακόπουλος (AM 1112124)"
+TEAM_INFO = "Course Aggregator Recommender"
 
 # Το όνομα του αρχείου CSV πρέπει να περιλαμβάνει έναν ΑΜ
 # (π.χ. courses_12345.csv) όπως απαιτείται στην εκφώνηση.
@@ -678,7 +678,7 @@ class CourseApp:
 		self.csv_path = csv_path
 		self.df = load_courses_df(csv_path)
 
-		self.root.title(f"Course Recommender - Team: {TEAM_INFO}")
+		self.root.title(TEAM_INFO)
 		self.root.geometry("1320x780")
 		self.root.minsize(1200, 700)
 		self.root.configure(background=APP_BG)
