@@ -53,12 +53,6 @@ python .\1108351_1112124_1112128\course_aggregator_recommender.py
 
 If you use a virtual environment, activate it first.
 
-## Team
-
-- Δημήτρης Πετράτος
-- Χρήστος Αυγερινόπουλος
-- Ιωάννης Γιανακόπουλος
-
 ## Notes
 
 - The app depends on external websites, so some sources may change over time.
