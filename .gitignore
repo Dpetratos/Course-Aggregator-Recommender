@@ -22,9 +22,9 @@ report_render_preview/
 report_render_word/
 report_render_word_pages/
 report_assets/
-1108351_1112124_1112128/courses_1108351.csv
-1108351_1112124_1112128/courses_12345.csv
-1108351_1112124_1112128/report_python_1108351_1112124_1112128.docx
+course_aggregator_recommender/courses_1108351.csv
+course_aggregator_recommender/courses_12345.csv
+course_aggregator_recommender/report_python.docx
 exercise_extracted.txt
 *.zip
 *.pdf

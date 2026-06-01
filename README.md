@@ -28,7 +28,7 @@ Add a few screenshots here when you export them from the app:
 
 ## Project Structure
 
-- `1108351_1112124_1112128/course_aggregator_recommender.py` - main application.
+- `course_aggregator_recommender/course_aggregator_recommender.py` - main application.
 - `courses.csv` - course dataset.
 - `requirements.txt` - Python dependencies.
 - `report_assets/` - generated report assets.
@@ -48,7 +48,7 @@ Add a few screenshots here when you export them from the app:
 From the `python` folder:
 
 ```powershell
-python .\1108351_1112124_1112128\course_aggregator_recommender.py
+python .\course_aggregator_recommender\course_aggregator_recommender.py
 ```
 
 If you use a virtual environment, activate it first.
@@ -57,5 +57,4 @@ If you use a virtual environment, activate it first.
 
 - The app depends on external websites, so some sources may change over time.
 - If online collection fails, the fallback dataset keeps the GUI functional.
-- Replace the team information in the source file with your final submission details if needed.
 - If you want the repository to look even more complete, add a short GIF or a couple of screenshots in this README.
