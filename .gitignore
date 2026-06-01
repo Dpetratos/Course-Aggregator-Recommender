@@ -1,0 +1,30 @@
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Generated reports and temporary exports
+report_render/
+report_render_preview/
+report_render_word/
+report_render_word_pages/
+report_assets/
+1108351_1112124_1112128/courses_1108351.csv
+1108351_1112124_1112128/courses_12345.csv
+1108351_1112124_1112128/report_python_1108351_1112124_1112128.docx
+exercise_extracted.txt
+*.zip
+*.pdf
