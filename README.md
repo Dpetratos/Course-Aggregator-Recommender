@@ -28,7 +28,7 @@ Add a few screenshots here when you export them from the app:
 
 ## Project Structure
 
-- `1108351_1112124_1112128/project1.py` - main application.
+- `1108351_1112124_1112128/course_aggregator_recommender.py` - main application.
 - `courses.csv` - course dataset.
 - `requirements.txt` - Python dependencies.
 - `report_assets/` - generated report assets.
@@ -48,7 +48,7 @@ Add a few screenshots here when you export them from the app:
 From the `python` folder:
 
 ```powershell
-python .\1108351_1112124_1112128\project1.py
+python .\1108351_1112124_1112128\course_aggregator_recommender.py
 ```
 
 If you use a virtual environment, activate it first.
